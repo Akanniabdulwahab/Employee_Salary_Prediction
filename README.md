@@ -1,6 +1,6 @@
 # Employee_Salary_Prediction
 
-https://www.google.com/imgres?q=employee%20attribution&imgurl=http%3A%2F%2Fonline.hbs.edu%2FStyle%2520Library%2Fapi%2Fresize.aspx%3Fimgpath%3D%2FPublishingImages%2Fblog%2Fposts%2FOffice%2520with%2520Window.png%26w%3D1200%26h%3D630&imgrefurl=https%3A%2F%2Fonline.hbs.edu%2Fblog%2Fpost%2Fthe-fundamental-attribution-error&docid=GFipla5mHGsCwM&tbnid=D7UaPUqttLrqnM&vet=12ahUKEwitwvyPgYaIAxU2UUEAHQ8cC0MQM3oECGYQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwitwvyPgYaIAxU2UUEAHQ8cC0MQM3oECGYQAA
+![image](https://github.com/user-attachments/assets/5853f548-eaba-4be4-9f73-8100289ccc15)
 
 ## Table of Cotents
 - [Project Objective](#project-objective)
