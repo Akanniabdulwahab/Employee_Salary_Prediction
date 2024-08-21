@@ -9,6 +9,7 @@
 - [Data Preprocessing](#data-preprocessing)
 - [Machine Learning Models](#machine-learning-models)
 - [Evaluation Metrics](#evaluation-metrics)
+- [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
 
 ## Project Objective
@@ -39,6 +40,9 @@ To assess the performance of a machine learning model, the following evaluation 
 - **R-Squared score**
 - **Mean square score**
 - **RMSE score**
+
+## Recommendation
+Continuous Improvement of model: Implement a feedback loop where the model can be continuously improved and updated with new data. This will ensure that the salary prediction system remains relevant and accurate over time.
 
 ## Conclusion
 This project aims to provide a robust predictive model that accurately estimates employee salaries based on various factors, including education level, attributions, and other relevant features. By identifying and analyzing the key determinants of salary, the project will offer valuable insights into the relationship between employee characteristics and compensation. These insights can aid HR professionals in making data-driven decisions related to compensation strategies, employee retention, and talent management, ultimately contributing to a more informed and equitable workplace.
