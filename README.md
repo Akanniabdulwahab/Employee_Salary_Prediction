@@ -21,7 +21,7 @@ This involved importing the dataset, ivestigated if the features are in their co
 ## Exploratory Data Analysis (EDA)
 - Univariate Analysis: Exploring each features individually.
 - Bivariate Analysis: Exploring each features against the profit feature.
-- Multivariate Analysis: Exploring two or more features against the profit feature.
+- Multivariate Analysis: Exploring two or more features against each other.
 
 ## Data Preprocessing
 Extensive data-preprocessing was performed. This included handling missing values, droppig off redundant features, adding extra features for better analysis, encoded the categorical features in the data, scaled the dataset. 
